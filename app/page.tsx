@@ -38,7 +38,7 @@ export default function Home() {
         }}
         placeholder="Enter text..."
         rows={4}
-        style={{ width: '300px' }}
+        style={{ width: '800px' }}
       />
 
       <br /><br />
